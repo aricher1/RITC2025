@@ -17,11 +17,11 @@ This script listens for breaking news related to Heating Oil, extracts relevant 
 
 ## Features
 
-- ✅ Real-time integration with RIT API
-- ✅ Automatic parsing of temperature-related market news
-- ✅ Dynamic calculation of expected price changes
-- ✅ Clear trading signals: **Long** or **Short**
-- ✅ Lightweight and fast main loop with deduplication of articles
+- Real-time integration with RIT API
+- Automatic parsing of temperature-related market news
+- Dynamic calculation of expected price changes
+- Clear trading signals: **Long** or **Short**
+- Lightweight and fast main loop with deduplication of articles
 
 ---
 
